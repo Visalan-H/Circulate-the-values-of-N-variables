@@ -26,7 +26,7 @@ def circulate():
     print("After circulating the values are:",a)
 ```   
 ## Output:
-![image](https://github.com/Visalan-H/Circulate-the-values-of-N-variables/assets/152077751/7753b9e5-63d1-4e69-9a7f-fef4c1f68fcf)
+![alt text](image.png)
 
 ## Result:
 Thus the outputs of the program are verified.
